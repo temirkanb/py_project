@@ -1,4 +1,12 @@
-def sum():
-    numbers = [1, 2, 3, 4, 5]
-    result = sum ( numbers )
+def foo():
+    a = 1
+    b = 1
+    result = (a + b)
+    print(result)
+
+
+def flo():
+    a = 1
+    b = 1
+    result = (a - b)
     print(result)
